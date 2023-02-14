@@ -1,5 +1,3 @@
-legacy/
-
-/js/app*
+/js/app_pgs.js
 
 .DS_Store
