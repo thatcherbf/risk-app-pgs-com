@@ -19,6 +19,21 @@ input:focus, textarea:focus, select:focus {
   align-content: center;
 }
 
+#n-logo {
+  width: 50%;
+  margin: auto;
+}
+
+.n-title {
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 #logo {
   margin-left: 35%;
   margin-right: 35%;
