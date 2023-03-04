@@ -20,13 +20,13 @@ input:focus, textarea:focus, select:focus {
 }
 
 #n-logo {
-  width: 12.5%;
+  width: 25%;
   margin: auto;
 }
 
 .n-title {
-  margin-top: 25vh;
-  margin-bottom: 55vh;
+  margin-top: 27.5vh;
+  margin-bottom: 2.55vh;
   height: 20vh;
   width: 100%;
   display: flex;
